@@ -45,7 +45,7 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->## 🐍 Snake Eating Github Contribution 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Sxincode/Sxincode/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ankitadhikari2004/ankitadhikari2004/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ankitadhikari2004/ankitadhikari2004/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ankitadhikari2004/ankitadhikari2004/output/github-contribution-grid-snake.svg">
 </picture>
